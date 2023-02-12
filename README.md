@@ -1,6 +1,6 @@
 ## teko_rep_Netology
 
-# ~ print("Hello, World?") ~ =)
+### ~ print("Hello, World?") ~ =)
 
 Hi, All! 
     My name is Viktor and you are welcome to my repository containing my completed homeworks
