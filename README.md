@@ -2,4 +2,9 @@
 
 # ~ print("Hello, World?") ~ =)
 
-Hi, All! This repository contains my completed homeworks during earning at online courses of full-stack python developer from Netology.
+Hi, All! 
+    My name is Viktor and you are welcome to my repository containing my completed homeworks
+    during earning at online courses of full-stack python developer from
+    Netology online school.
+
+Yours faithfully Viktor Chamin aka tEk0.
