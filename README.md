@@ -1,5 +1,5 @@
-# teko_rep_Netology
+## teko_rep_Netology
 
-Netology
+# ~ print("Hello, World?") ~ =)
 
-This repository contains my homeworks completed during earning at online courses of  python programming from Netology.
+Hi, All! This repository contains my completed homeworks during earning at online courses of full-stack python developer from Netology.
